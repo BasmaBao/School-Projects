@@ -1,5 +1,4 @@
 # School-Projects
-# Repository Title
 
 ## Overview
 This repository contains projects and notebooks related to various  Data Science topics including  deep learning, data fitting techniques and others.
